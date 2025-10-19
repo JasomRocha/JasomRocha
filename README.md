@@ -19,6 +19,3 @@
 
 ## 🌐 Contatos
 📩 [jasomrocha27@gmail.com](mailto:jasom.rocha@academico.ufpb.br) &nbsp;|&nbsp;  💼 [LinkedIn](https://www.linkedin.com/in/jasom-rocha/)
-
-
-  <img src="https://github.com/JasomRocha/JasomRocha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
