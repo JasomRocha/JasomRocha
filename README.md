@@ -11,11 +11,5 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-  <p>
-   <img height="170" width="403" src="https://github-readme-streak-stats.herokuapp.com/?user=JasomRocha&theme=tokyonight" />
-   <img height="170" width="381" src="https://github-readme-stats.vercel.app/api?username=JasomRocha&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  </p>
-
-
 ## 🌐 Contatos
 📩 [jasomrocha27@gmail.com](mailto:jasom.rocha@academico.ufpb.br) &nbsp;|&nbsp;  💼 [LinkedIn](https://www.linkedin.com/in/jasom-rocha/)
