@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jasom Rocha!
 
-🎓 Estudante de **Engenharia da Computação - UFPB** | 💻 **Desenvolvedor de Sistemas Web** | 📔 Desenvolvimento Web
+**Engenheiro da Computação - UFPB** | 💻 **Desenvolvedor de Sistemas** | 📔 Desenvolvimento Web
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
